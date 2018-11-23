@@ -32,6 +32,12 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/new-commercial-label-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "siteUrl": "undefined",
     "uniqCompNum": 4,
     "versionPublish": "4.8.6"
   },
